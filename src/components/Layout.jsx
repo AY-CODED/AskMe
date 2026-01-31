@@ -10,7 +10,7 @@ const Layout = ({ leftSidebar, rightSidebar, children, isDark, toggleTheme }) =>
       <div className="lg:hidden fixed top-0 left-0 right-0 z-50 flex items-center justify-between px-4 py-3 bg-white dark:bg-gray-950 border-b border-gray-200 dark:border-gray-800">
         <div className="font-bold text-xl flex items-center gap-2">
            <div className="w-6 h-6 rounded-full border-2 border-dashed border-gray-600 dark:border-gray-400"></div>
-           Script
+           AskMe
         </div>
         <button onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)} className="p-2 rounded-md hover:bg-gray-100 dark:hover:bg-gray-800">
           {isMobileMenuOpen ? <X size={24} /> : <Menu size={24} />}

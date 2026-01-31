@@ -41,10 +41,10 @@ const MainContent = () => {
           {/* Header */}
           <div className="text-center space-y-4">
             <h1 className="text-4xl md:text-5xl font-bold text-gray-900 dark:text-white tracking-tight">
-              Welcome to Script
+              Welcome to AskMe
             </h1>
             <p className="text-lg text-gray-500 dark:text-gray-400">
-              Get started by Script a task and Chat can do the rest.
+              "Get started by giving AskMe a task, and Chat can do the rest."
             </p>
           </div>
 

@@ -28,7 +28,7 @@ const LeftSidebar = ({ isDark, toggleTheme }) => {
       {/* Header */}
       <div className="hidden lg:flex items-center gap-2 mb-6 px-2">
         <CircleDashed className="w-6 h-6 text-gray-900 dark:text-gray-100" />
-        <span className="font-bold text-xl tracking-tight">Script</span>
+        <span className="font-bold text-xl tracking-tight">AskMe</span>
       </div>
 
       {/* Search */}
