@@ -16,10 +16,10 @@ import {
 const LeftSidebar = ({ isDark, toggleTheme }) => {
   const menuItems = [
     { icon: MessageSquare, label: 'AI Chat', active: true },
-    { icon: Folder, label: 'Projects' },
-    { icon: LayoutTemplate, label: 'Templates' },
-    { icon: FileText, label: 'Documents' },
-    { icon: Users, label: 'Community', badge: 'NEW' },
+    // { icon: Folder, label: 'Projects' },
+    // { icon: LayoutTemplate, label: 'Templates' },
+    // { icon: FileText, label: 'Documents' },
+    // { icon: Users, label: 'Community', badge: 'NEW' },
     { icon: Clock, label: 'History' },
   ];
 
